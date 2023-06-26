@@ -4,6 +4,4 @@
 
 <h3 align="center">Мой стек: Django/DRF, PostgreSQL, Redis, Docker, pytest/unittest, Celery.</h3>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dsaus-1)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaus-1&layout=compact)
